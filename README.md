@@ -2,9 +2,9 @@
 
 Meu nome é Alessandra
 
-Estou estudando no Alura 
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaçopara a minha organização e compartilhamento dos meus projetos desenvolvidos 
+Estou estudando no Alura.
+Estou me desenvolvendo na linguagem JavaScript.
+Utilizo esse espaçopara a minha organização e compartilhamento dos meus projetos desenvolvidos. 
 
 ### Você pode entrar em contato comigo 
 
